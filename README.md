@@ -68,9 +68,9 @@ Phishing-Cybersecurity-Project/
 💻 GitHub Repository
 
 👥 Team Members
-Alie G Fullah
-Alimamy Abdulai Kanu
-Abdulai Foday Conteh
+Alie G Fullah,
+Alimamy Abdulai Kanu,
+Abdulai Foday Conteh,
 Richmond Musa
 
 📚 References
